@@ -1,4 +1,4 @@
 scratchpad
 ==========
 
-A first repository - basically a scratchpad area for testing web stack features.
+A first repository - basically a scratchpad area for creating web stack features.
